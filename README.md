@@ -4,7 +4,7 @@ In order to run the project, setup .env and set MONGO_URI variable equal to DB c
 
 In order to avoid port collisions, in the source code port value is 5000. You can change this value to suit your liking.
 
-Make sure you install all dependencies required to run this project.
+Make sure to install all dependencies required to run this project.
 The various dependencies particularly used aside from node.js and express.js are:
 -dotenv
 -nodemon
